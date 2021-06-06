@@ -16,7 +16,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>middle-ware</module>
+        <module>basic</module>
     </modules>
 
     <!-- 版本管理 -->
